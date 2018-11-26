@@ -13,6 +13,12 @@
 
  */
 
+ /* overwritten rules: */
+
+ .myCenter {
+   justify-content: center;
+ }
+
 /*     brand Colors              */
 
 .carousel.carousel-full-nagivation .left {
