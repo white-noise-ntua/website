@@ -19,6 +19,10 @@
    justify-content: center;
  }
 
+ .sponsorsLogo {
+   padding: 5%;
+ }
+
 /*     brand Colors              */
 
 .carousel.carousel-full-nagivation .left {
