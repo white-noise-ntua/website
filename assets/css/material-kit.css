@@ -15,6 +15,10 @@
 
  /* overwritten rules: */
 
+ .projects-page {
+ padding-top: 65px;
+ }
+
  .myCenter {
    justify-content: center;
  }
