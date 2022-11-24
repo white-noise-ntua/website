@@ -2696,17 +2696,20 @@ select.form-control-lg:not([size]):not([multiple]),
 .social-menu ul li:nth-child(1) a:hover {
   background-color: #3b5999;
 }
-.social-menu ul li:nth-child(2) a:hover {
+.social-menu ul li:nth-child(5) a:hover {
   background-color: #c94a00;
 }
-.social-menu ul li:nth-child(3) a:hover {
+.social-menu ul li:nth-child(2) a:hover {
   background-color: #8502cb;
 }
-.social-menu ul li:nth-child(4) a:hover {
+.social-menu ul li:nth-child(6) a:hover {
   background-color: #484848;
 }
-.social-menu ul li:nth-child(5) a:hover {
+.social-menu ul li:nth-child(4) a:hover {
   background-color: #0077B5;
+}
+.social-menu ul li:nth-child(3) a:hover {
+  background-color: #61bdee;
 }
 
 .btn {
